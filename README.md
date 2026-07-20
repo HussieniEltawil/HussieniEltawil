@@ -1,18 +1,24 @@
 <div align="center">
 
+<img src="banner.png" width="100%" alt="Hussini Eltawil Banner"/>
+
 # 👋 Hi, I'm Hussini Eltawil
 
-### Data Analyst | Power BI Developer | Business Intelligence Enthusiast
+### Data Analyst • Power BI Developer • Business Intelligence
 
-Turning complex business data into interactive dashboards and actionable insights.
+Turning complex business data into interactive dashboards and actionable business insights.
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/DAX-Advanced-1F77B4?style=for-the-badge">
-<img src="https://img.shields.io/badge/Power%20Query-Advanced-2CA02C?style=for-the-badge">
+<a href="https://github.com/HussieniEltawil">
+<img src="https://img.shields.io/github/followers/HussieniEltawil?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/HussieniEltawil?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge">
+</a>
+
+<img src="https://img.shields.io/badge/Open%20To-Remote%20Work-success?style=for-the-badge">
+
 </p>
 
 </div>
@@ -21,120 +27,68 @@ Turning complex business data into interactive dashboards and actionable insight
 
 # 🚀 About Me
 
-📊 Data Analyst passionate about transforming raw data into meaningful business insights.
+I'm a Data Analyst passionate about transforming raw data into business insights through interactive dashboards and analytical reporting.
 
-💡 I specialize in:
+### 💼 Specialties
 
-- Power BI
-- Microsoft Excel
-- Data Visualization
-- Dashboard Development
-- DAX
-- Power Query
-- Business Intelligence
-
-Currently expanding my skills in:
-
-- SQL
-- Python
-- Microsoft Fabric
-- Databricks
+- 📊 Power BI Dashboard Development
+- 📈 Business Intelligence
+- 📉 Data Visualization
+- ⚡ DAX
+- 🔄 Power Query
+- 📋 Microsoft Excel
+- 📊 KPI Reporting
+- 📦 Operations Analytics
 
 ---
 
 # 🛠 Tech Stack
 
-### Business Intelligence
-
-- Power BI
-- DAX
-- Power Query
-- Power BI Service
-
-### Data Analytics
-
-- Excel
-- Pivot Tables
-- Power Pivot
-- Power Query
-
-### Programming
-
-- SQL
-- Python (Learning)
-
-### Version Control
-
-- Git
-- GitHub
+| Business Intelligence | Analytics | Programming |
+|-----------------------|-----------|-------------|
+| Power BI | Excel | SQL |
+| DAX | Power Query | Python |
 
 ---
 
-# 📂 Featured Projects
+# 🌟 Featured Projects
 
 ## 🚀 Repair & Return Operations Dashboard
 
-Enterprise Power BI dashboard for monitoring Repair & Return operations.
+Enterprise Power BI dashboard featuring:
 
-### Highlights
-
-- Executive Dashboard
-- KPI Reporting
-- Operational Analytics
+- Executive KPIs
 - Supplier Performance
-- Aging Analysis
 - Cycle Time Analysis
 - Forecast vs Actual
-- Interactive Navigation
+- Operational Analytics
 
-🔗 Repository
-
-https://github.com/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard
+🔗 https://github.com/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard
 
 ---
 
 ## 📊 Furniture Sales Dashboard
 
-Interactive business dashboard for monitoring sales performance.
-
-Highlights
-
-- Executive Overview
-- Regional Analysis
-- Profitability
-- Category Performance
+Interactive executive dashboard for sales and profitability analysis.
 
 ---
 
-## 🏥 Hospital Performance Dashboard
+## 🏥 Hospital Dashboard
 
-Power BI dashboard analyzing healthcare performance.
-
-Highlights
-
-- Patient Analytics
-- Department KPIs
-- Operational Reporting
+Healthcare performance analytics using Power BI.
 
 ---
 
 ## 📦 Logistics Dashboard
 
-Supply Chain & Procurement Analytics.
-
-Highlights
-
-- RFQ Tracking
-- Procurement KPIs
-- Aging Analysis
-- Delivery Performance
+Procurement & RFQ operational analytics.
 
 ---
 
 # 📜 Certifications
 
 - Google Data Analytics Professional Certificate
-- Power BI Certification
+- Microsoft Power BI
 - Meta Social Media Marketing
 - Supply Chain Management
 
@@ -166,7 +120,7 @@ Highlights
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HussieniEltawil&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HussieniEltawil&theme=tokyonight&margin-w=15"/>
 
 </p>
 
@@ -174,16 +128,17 @@ Highlights
 
 # 📫 Connect With Me
 
-- LinkedIn
-- GitHub
-- Email
+- 💼 LinkedIn
+- 📧 Email
+- 🌍 Saudi Arabia
+- 💻 Open to Remote Opportunities
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my GitHub Profile!
 
-Always open to collaborating on Data Analytics and Business Intelligence projects.
+If you like my work, don't forget to ⭐ my repositories.
 
 </div>

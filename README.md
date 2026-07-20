@@ -1,74 +1,189 @@
-# Hi, I'm Hussieni Gamal 👋
-### Data & BI Analyst | Power BI · SQL · Python · Excel
+<div align="center">
 
-I turn raw data into structured insights and interactive dashboards that support real business decisions.  
-Based in Riyadh 🇸🇦 | Open to Remote Opportunities
+# 👋 Hi, I'm Hussini Eltawil
 
----
+### Data Analyst | Power BI Developer | Business Intelligence Enthusiast
 
-## 🛠️ Technical Skills
+Turning complex business data into interactive dashboards and actionable insights.
 
-| Area | Tools |
-|------|-------|
-| **BI & Visualization** | Power BI (DAX, Data Modeling), Excel (Pivot Tables, Advanced Formulas) |
-| **Data & Querying** | SQL, Python (Pandas, Data Analysis & Automation) |
-| **Analytics** | KPI Design, Data Validation, Process Mapping, Stakeholder Reporting |
-| **Tools** | Jira, Confluence, Google Analytics GA4, Meta Ads Reporting |
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/DAX-Advanced-1F77B4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Power%20Query-Advanced-2CA02C?style=for-the-badge">
+</p>
 
----
-
-## 📊 Featured Projects
-
-### 🏥 HMC Hospital Dashboard
-> Power BI · DAX · Excel · Data Modeling
-
-Healthcare analytics dashboard analyzing **1,000+ patient records** across 7 departments and 6 physicians.
-
-- Designed 4-page interactive dashboard as a single source of truth for hospital leadership
-- Engineered KPIs: discharge status rates, surgery ratios, age-group segmentation, physician performance scoring
-- Identified that **51% of patients were returning visitors** — surfaced a chronic disease management gap
-- Delivered executive-ready reports translating clinical data into actionable recommendations
-
-🔗 [View Project](https://github.com/HussieniEltawil/HMC-Hospital-Dashboard)
+</div>
 
 ---
 
-### 🪑 Furniture Sales Dashboard
-> Power BI · DAX · Excel
+# 🚀 About Me
 
-Interactive sales performance dashboard analyzing customer behavior, product trends, and regional performance.
+📊 Data Analyst passionate about transforming raw data into meaningful business insights.
 
-- Built end-to-end from raw sales data to interactive executive dashboard
-- Tracked revenue KPIs, top-performing categories, and customer segmentation
-- Documented all metric definitions for reproducibility
+💡 I specialize in:
 
-🔗 [View Project](https://github.com/HussieniEltawil/Furniture-Sales-Dashboard)
+- Power BI
+- Microsoft Excel
+- Data Visualization
+- Dashboard Development
+- DAX
+- Power Query
+- Business Intelligence
 
----
+Currently expanding my skills in:
 
-## 💼 Professional Background
-
-- **Pharmacist & Operations Analyst** @ Lemon Pharmacies, Riyadh *(2025 – Present)*
-- **Pharmacist & Reporting Analyst** @ Mohamed Khalaf Pharmacy, Cairo *(2020 – 2025)*
-- **Territory Analyst** @ Hygint Pharmaceuticals, Cairo *(2019 – 2020)*
-
-My pharmacy background gives me a strong advantage in **healthcare and life sciences data** — I understand the domain, not just the numbers.
-
----
-
-## 📜 Certifications
-
-- 📊 Data Analysis & Power BI — ABPS *(2025)*
-- 🚚 Supply Chain Management — ABPS *(2026, In Progress)*
-- 📱 Meta Social Media Marketing Professional — Coursera *(2024)*
+- SQL
+- Python
+- Microsoft Fabric
+- Databricks
 
 ---
 
-## 📫 Connect with Me
+# 🛠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husinigamal-549b68134)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hgtawil@gmail.com)
+### Business Intelligence
+
+- Power BI
+- DAX
+- Power Query
+- Power BI Service
+
+### Data Analytics
+
+- Excel
+- Pivot Tables
+- Power Pivot
+- Power Query
+
+### Programming
+
+- SQL
+- Python (Learning)
+
+### Version Control
+
+- Git
+- GitHub
 
 ---
 
-*"Data is only as valuable as the decisions it enables."*
+# 📂 Featured Projects
+
+## 🚀 Repair & Return Operations Dashboard
+
+Enterprise Power BI dashboard for monitoring Repair & Return operations.
+
+### Highlights
+
+- Executive Dashboard
+- KPI Reporting
+- Operational Analytics
+- Supplier Performance
+- Aging Analysis
+- Cycle Time Analysis
+- Forecast vs Actual
+- Interactive Navigation
+
+🔗 Repository
+
+https://github.com/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard
+
+---
+
+## 📊 Furniture Sales Dashboard
+
+Interactive business dashboard for monitoring sales performance.
+
+Highlights
+
+- Executive Overview
+- Regional Analysis
+- Profitability
+- Category Performance
+
+---
+
+## 🏥 Hospital Performance Dashboard
+
+Power BI dashboard analyzing healthcare performance.
+
+Highlights
+
+- Patient Analytics
+- Department KPIs
+- Operational Reporting
+
+---
+
+## 📦 Logistics Dashboard
+
+Supply Chain & Procurement Analytics.
+
+Highlights
+
+- RFQ Tracking
+- Procurement KPIs
+- Aging Analysis
+- Delivery Performance
+
+---
+
+# 📜 Certifications
+
+- Google Data Analytics Professional Certificate
+- Power BI Certification
+- Meta Social Media Marketing
+- Supply Chain Management
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HussieniEltawil&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussieniEltawil&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=HussieniEltawil&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HussieniEltawil&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn
+- GitHub
+- Email
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Always open to collaborating on Data Analytics and Business Intelligence projects.
+
+</div>

@@ -2,7 +2,7 @@
 
 <img src="banner.png" width="100%" alt="Hussini Eltawil Banner"/>
 
-# 👋 Hi, I'm Hussini Eltawil
+# 👋 Hi, I'm Hussieni Gamal
 
 ### Data Analyst • Power BI Developer • Business Intelligence
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Hussini Eltawil Banner"/>
+<img src="banner.png" width="100%" alt="Hussieni Gamal Banner"/>
 
 # 👋 Hi, I'm Hussieni Gamal
 
@@ -9,11 +9,12 @@
 Turning complex business data into interactive dashboards and actionable business insights.
 
 <p>
-<a href="https://github.com/HussieniEltawil">
-<img src="https://img.shields.io/github/followers/HussieniEltawil?style=for-the-badge&logo=github">
+
+<a href="https://github.com/HussieniGamal">
+<img src="https://img.shields.io/github/followers/HussieniGamal?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/HussieniEltawil?tab=repositories">
+<a href="https://github.com/HussieniGamal?tab=repositories">
 <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge">
 </a>
 
@@ -63,7 +64,7 @@ Enterprise Power BI dashboard featuring:
 - Forecast vs Actual
 - Operational Analytics
 
-🔗 https://github.com/HussieniEltawil/PowerBi-Repair-Return-Operations-Dashboard
+🔗 https://github.com/HussieniGamal/PowerBi-Repair-Return-Operations-Dashboard
 
 ---
 
@@ -87,7 +88,6 @@ Procurement & RFQ operational analytics.
 
 # 📜 Certifications
 
-- Google Data Analytics Professional Certificate
 - Microsoft Power BI
 - Meta Social Media Marketing
 - Supply Chain Management
@@ -98,9 +98,9 @@ Procurement & RFQ operational analytics.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HussieniEltawil&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HussieniGamal&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussieniEltawil&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussieniGamal&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -110,7 +110,7 @@ Procurement & RFQ operational analytics.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=HussieniEltawil&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=HussieniGamal&theme=tokyonight"/>
 
 </p>
 
@@ -120,7 +120,7 @@ Procurement & RFQ operational analytics.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HussieniEltawil&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HussieniGamal&theme=tokyonight&margin-w=15"/>
 
 </p>
 

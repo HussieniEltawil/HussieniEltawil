@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Hussieni Gamal Banner"/>
+<img src="banner.png?v=2" width="100%" alt="Hussieni Gamal Banner"/>
 
 # 👋 Hi, I'm Hussieni Gamal
 
-### Data Analyst • Power BI Developer • Business Intelligence
+### Data Analyst | Power BI | SQL | Business Intelligence
 
 Turning complex business data into interactive dashboards and actionable business insights.
 
@@ -28,15 +28,20 @@ Turning complex business data into interactive dashboards and actionable busines
 
 # 🚀 About Me
 
-I'm a Data Analyst passionate about transforming raw data into business insights through interactive dashboards and analytical reporting.
+I'm a Data Analyst passionate about transforming business data into meaningful insights through interactive dashboards and business intelligence solutions.
 
-### 💼 Specialties
+I specialize in Power BI, DAX, SQL, Excel, and Power Query, helping organizations monitor KPIs, optimize operations, and support data-driven decision-making.
 
-- 📊 Power BI Dashboard Development
+---
+
+# 💼 Core Skills
+
+- 📊 Power BI
 - 📈 Business Intelligence
 - 📉 Data Visualization
 - ⚡ DAX
 - 🔄 Power Query
+- 🗄 SQL
 - 📋 Microsoft Excel
 - 📊 KPI Reporting
 - 📦 Operations Analytics
@@ -47,7 +52,7 @@ I'm a Data Analyst passionate about transforming raw data into business insights
 
 | Business Intelligence | Analytics | Programming |
 |-----------------------|-----------|-------------|
-| Power BI | Excel | SQL |
+| Power BI | Microsoft Excel | SQL |
 | DAX | Power Query | Python |
 
 ---
@@ -59,7 +64,7 @@ I'm a Data Analyst passionate about transforming raw data into business insights
 Enterprise Power BI dashboard featuring:
 
 - Executive KPIs
-- Supplier Performance
+- Supplier Performance Analysis
 - Cycle Time Analysis
 - Forecast vs Actual
 - Operational Analytics
@@ -68,33 +73,34 @@ Enterprise Power BI dashboard featuring:
 
 ---
 
-## 📊 Furniture Sales Dashboard
+## 🛋 Furniture Sales Dashboard
 
-Interactive executive dashboard for sales and profitability analysis.
-
----
-
-## 🏥 Hospital Dashboard
-
-Healthcare performance analytics using Power BI.
+Interactive sales dashboard for revenue, profitability, customer and regional performance analysis.
 
 ---
 
-## 📦 Logistics Dashboard
+## 🏥 Hospital Performance Dashboard
 
-Procurement & RFQ operational analytics.
+Healthcare analytics dashboard for monitoring hospital KPIs, diagnosis trends, and operational performance.
+
+---
+
+## 📦 Logistics Operations Dashboard
+
+Procurement, RFQ, supplier performance, aging, and logistics analytics dashboard.
 
 ---
 
 # 📜 Certifications
 
-- Microsoft Power BI
-- Meta Social Media Marketing
-- Supply Chain Management
+- Data Analysis Diploma
+- Meta Social Media Marketing Specialization
+- Meta Social Media Marketing Capstone
+- Foundations of Digital Marketing & E-commerce (Google)
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -128,17 +134,17 @@ Procurement & RFQ operational analytics.
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
-- 🌍 Saudi Arabia
-- 💻 Open to Remote Opportunities
+- 💼 LinkedIn: https://www.linkedin.com/in/husieni-gamal-549b68134/
+- 📧 Email: hgtawil@gmail.com
+- 📍 Saudi Arabia
+- 🌍 Open to Remote Opportunities
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub Profile!
+### ⭐ Thanks for visiting my GitHub profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+If you find my projects helpful, consider giving them a ⭐.
 
 </div>

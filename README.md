@@ -1,150 +1,134 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Hussieni Gamal</h1>
 
-<img src="banner.png?v=2" width="100%" alt="Hussieni Gamal Banner"/>
-
-# 👋 Hi, I'm Hussieni Gamal
-
-### Data Analyst | Power BI | SQL | Business Intelligence
-
-Turning complex business data into interactive dashboards and actionable business insights.
-
-<p>
-
-<a href="https://github.com/HussieniGamal">
-<img src="https://img.shields.io/github/followers/HussieniGamal?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/HussieniGamal?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge">
-</a>
-
-<img src="https://img.shields.io/badge/Open%20To-Remote%20Work-success?style=for-the-badge">
-
-</p>
-
-</div>
+<h3 align="center">
+Data Analyst | Power BI Developer | Python | SQL | Excel
+</h3>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Data Analyst passionate about transforming business data into meaningful insights through interactive dashboards and business intelligence solutions.
+I'm a Data Analyst with a background in pharmacy operations and business analysis.
 
-I specialize in Power BI, DAX, SQL, Excel, and Power Query, helping organizations monitor KPIs, optimize operations, and support data-driven decision-making.
+I enjoy transforming raw data into interactive dashboards and actionable business insights using Python, SQL, Power BI, and Excel.
 
----
-
-# 💼 Core Skills
-
-- 📊 Power BI
-- 📈 Business Intelligence
-- 📉 Data Visualization
-- ⚡ DAX
-- 🔄 Power Query
-- 🗄 SQL
-- 📋 Microsoft Excel
-- 📊 KPI Reporting
-- 📦 Operations Analytics
+Currently expanding my portfolio through real-world analytics projects.
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Tech Stack
 
-| Business Intelligence | Analytics | Programming |
-|-----------------------|-----------|-------------|
-| Power BI | Microsoft Excel | SQL |
-| DAX | Power Query | Python |
+- Python
+- Pandas
+- NumPy
+- SQL
+- Power BI
+- DAX
+- Power Query
+- Excel
+- Git
+- GitHub
 
 ---
 
-# 🌟 Featured Projects
+# ⭐ Featured Projects
 
-## 🚀 Repair & Return Operations Dashboard
+## 💊 Pharmacy Sales Analysis (Python)
 
-Enterprise Power BI dashboard featuring:
+**EDA project analyzing six years of pharmacy sales data using Python.**
 
-- Executive KPIs
-- Supplier Performance Analysis
+### Highlights
+
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Sales Trend Analysis
+- Monthly Seasonality
+- Weekday & Hourly Analysis
+- Correlation Analysis
+- Business Insights
+
+🔗 Repository
+
+https://github.com/HussieniGamal/Pharmacy-Sales-Analysis-Python
+
+---
+
+## 🔧 Repair & Return Operations Dashboard
+
+Interactive Power BI dashboard for monitoring repair operations, bottlenecks, cycle time, and KPIs.
+
+### Highlights
+
+- Power BI
+- DAX
+- Power Query
+- KPI Cards
 - Cycle Time Analysis
-- Forecast vs Actual
-- Operational Analytics
+- Bottleneck Detection
+- Interactive Dashboard
 
-🔗 https://github.com/HussieniGamal/PowerBi-Repair-Return-Operations-Dashboard
+🔗 Repository
+
+https://github.com/HussieniGamal/PowerBi-Repair-Return-Operations-Dashboard
 
 ---
 
 ## 🛋 Furniture Sales Dashboard
 
-Interactive sales dashboard for revenue, profitability, customer and regional performance analysis.
+Business Intelligence dashboard for furniture sales performance.
+
+Highlights
+
+- Sales Analysis
+- Regional Performance
+- Product Performance
+- Interactive Visualizations
+
+🔗 Repository
+
+https://github.com/HussieniGamal/Furniture-Sales-Dashboard
 
 ---
 
-## 🏥 Hospital Performance Dashboard
+## 🏥 HMC Hospital Dashboard
 
-Healthcare analytics dashboard for monitoring hospital KPIs, diagnosis trends, and operational performance.
+Healthcare analytics dashboard built with Power BI.
 
----
+Highlights
 
-## 📦 Logistics Operations Dashboard
+- Hospital KPIs
+- Patient Analysis
+- Department Performance
+- Medical Insights
 
-Procurement, RFQ, supplier performance, aging, and logistics analytics dashboard.
+🔗 Repository
 
----
-
-# 📜 Certifications
-
-- Data Analysis Diploma
-- Meta Social Media Marketing Specialization
-- Meta Social Media Marketing Capstone
-- Foundations of Digital Marketing & E-commerce (Google)
+https://github.com/HussieniGamal/HMC-Hospital-Dashboard
 
 ---
 
-# 📈 GitHub Statistics
+## 🛒 Younes Store Sales Dashboard
 
-<p align="center">
+Retail sales dashboard focusing on business performance and sales insights.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HussieniGamal&show_icons=true&theme=tokyonight"/>
+Highlights
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussieniGamal&layout=compact&theme=tokyonight"/>
+- Sales KPIs
+- Product Analysis
+- Customer Insights
+- Power BI Reporting
 
-</p>
+🔗 Repository
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=HussieniGamal&theme=tokyonight"/>
-
-</p>
+https://github.com/HussieniGamal/Younes-Store-Sales-Dashboard
 
 ---
 
-# 🏆 GitHub Trophies
+# 📫 Connect with Me
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HussieniGamal&theme=tokyonight&margin-w=15"/>
-
-</p>
+- LinkedIn: **ضع لينك لينكدإن هنا**
+- GitHub: https://github.com/HussieniGamal
 
 ---
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/husieni-gamal-549b68134/
-- 📧 Email: hgtawil@gmail.com
-- 📍 Saudi Arabia
-- 🌍 Open to Remote Opportunities
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my GitHub profile!
-
-If you find my projects helpful, consider giving them a ⭐.
-
-</div>
+⭐ Thanks for visiting my profile!

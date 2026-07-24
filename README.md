@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+  <img src="./banner.png" width="100%" alt="Hussieni Gamal Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Hussieni Gamal</h1>
@@ -9,7 +9,7 @@ Data Analyst | Power BI Developer | Python | SQL | Excel
 </h3>
 
 <p align="center">
-Turning Raw Data into Actionable Business Insights
+Transforming Raw Data into Actionable Business Insights
 </p>
 
 ---
@@ -18,35 +18,37 @@ Turning Raw Data into Actionable Business Insights
 
 I'm a **Data Analyst** with a background in pharmacy operations and business analysis.
 
-I enjoy transforming raw data into meaningful insights and interactive dashboards using **Python, SQL, Power BI, and Excel**.
+I enjoy transforming raw data into meaningful insights through **Python, SQL, Power BI, and Excel**.
 
-My focus is solving real business problems through data analysis, visualization, and decision support.
-
-Currently expanding my portfolio with real-world analytics projects.
+My passion is solving real business problems using data analytics, visualization, and storytelling.
 
 ---
 
 # 🚀 Tech Stack
 
-<p>
+### Programming
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+- Python
+- SQL
 
-</p>
+### Data Analysis
 
-### Analytics Tools
+- Pandas
+- NumPy
+- Matplotlib
+
+### Business Intelligence
 
 - Power BI
 - DAX
 - Power Query
 - Excel
-- Pandas
-- NumPy
-- Matplotlib
+
+### Tools
+
+- Git
+- GitHub
+- Jupyter Notebook
 
 ---
 
@@ -54,22 +56,20 @@ Currently expanding my portfolio with real-world analytics projects.
 
 ## 💊 Pharmacy Sales Analysis (Python)
 
-EDA project analyzing six years of pharmacy sales data using Python.
+Exploratory Data Analysis project analyzing six years of pharmacy sales data using Python.
 
-### Highlights
+### Key Features
 
 - Data Cleaning
-- Data Wrangling
 - Feature Engineering
 - Exploratory Data Analysis (EDA)
 - Sales Trend Analysis
 - Monthly Seasonality
-- Hourly Sales Analysis
-- Drug Category Analysis
+- Hourly & Weekly Sales Analysis
 - Correlation Analysis
 - Business Insights
 
-**Tools**
+**Tech Stack**
 
 Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
 
@@ -81,18 +81,19 @@ https://github.com/HussieniGamal/Pharmacy-Sales-Analysis-Python
 
 ## 🔧 Repair & Return Operations Dashboard
 
-Interactive Power BI dashboard for monitoring repair operations, bottlenecks, turnaround time, and operational KPIs.
+Interactive Power BI dashboard for monitoring repair operations, turnaround time, bottlenecks, and operational KPIs.
 
-### Highlights
+### Key Features
 
 - KPI Dashboard
 - Cycle Time Analysis
 - Bottleneck Analysis
-- Interactive Filters
+- Operational Performance
+- Interactive Filtering
 - DAX Measures
 - Power Query
 
-**Tools**
+**Tech Stack**
 
 Power BI • DAX • Power Query • Excel
 
@@ -104,14 +105,14 @@ https://github.com/HussieniGamal/PowerBi-Repair-Return-Operations-Dashboard
 
 ## 🏥 HMC Hospital Dashboard
 
-Healthcare analytics dashboard built with Power BI.
+Healthcare analytics dashboard designed to monitor hospital performance and operational KPIs.
 
-### Highlights
+### Key Features
 
-- Hospital Performance
 - Patient Analysis
-- Department KPIs
-- Medical Dashboard
+- Department Performance
+- Healthcare KPIs
+- Executive Dashboard
 
 🔗 Repository
 
@@ -121,13 +122,13 @@ https://github.com/HussieniGamal/HMC-Hospital-Dashboard
 
 ## 🛋 Furniture Sales Dashboard
 
-Business Intelligence dashboard for furniture sales performance.
+Interactive Power BI dashboard analyzing furniture sales performance.
 
-### Highlights
+### Key Features
 
 - Sales Performance
-- Regional Analysis
 - Product Analysis
+- Regional Analysis
 - Executive Dashboard
 
 🔗 Repository
@@ -138,14 +139,14 @@ https://github.com/HussieniGamal/Furniture-Sales-Dashboard
 
 ## 🛒 Younes Store Sales Dashboard
 
-Retail sales dashboard focusing on sales performance and business insights.
+Retail analytics dashboard for monitoring sales performance and business KPIs.
 
-### Highlights
+### Key Features
 
 - Sales KPIs
 - Product Performance
 - Customer Insights
-- Power BI Reporting
+- Interactive Dashboard
 
 🔗 Repository
 
@@ -153,29 +154,34 @@ https://github.com/HussieniGamal/Younes-Store-Sales-Dashboard
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HussieniGamal&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HussieniGamal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussieniGamal&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussieniGamal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/hussieni-gamal-549b68134
+💼 LinkedIn
 
+https://www.linkedin.com/in/hussieni-gamal-549b68134
 
-- 💻 GitHub: https://github.com/HussieniGamal
+💻 GitHub
+
+https://github.com/HussieniGamal
 
 ---
 
 <p align="center">
 
 ⭐ Thank you for visiting my profile!
+
+If you like any of my projects, feel free to ⭐ the repository.
 
 </p>
